@@ -5,20 +5,20 @@ Saya disini bertugas untuk membantu si gondrong jenius untuk menyelesaikan riset
 2. membuat rekayasa algoritma cerdas
 
 # Rancangan yang harus dibuat si Gondrong Jenius
-   # 1. Menentukan tujuan
+ 1. Menentukan tujuan
       Gondrong arus tau apa tujuan yang akan dibuatnya
-   # 2. Mengumpulkan data
+ 2. Mengumpulkan data
       Mengambil dataset objek yang diinginkannya
-   # 3 Augmentasi data
+ 3 Augmentasi data
       Gondrong harus memeriksa data yang telah dia kumpulkan, serta meningkatkan kualitas data jika diperlukan 
-   # 4. Anotasi data set
+ 4. Anotasi data set
       mengotakkan suatu objel atau bounding box
-   # 5. input data ke model
+ 5. input data ke model
       Gondrong menggunakan beberapa software untuk melakukan modeling seperti yolo, roboflow
-   # 6. Melatih model
+ 6. Melatih model
       melatih model dengan dataset yang telah dianotasi
-   # 7. evaluasi model
+ 7. evaluasi model
       mengukur performa model
-   # 8. Deployment
+ 8. Deployment
       Menerapkan model di real time/dunia nyata
    
