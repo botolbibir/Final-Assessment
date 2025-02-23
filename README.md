@@ -1,5 +1,5 @@
 # Final Assessment - Amarine Vision 2025  
-**Pendeteksian Objek pada Gambar Biota Laut**  
+**TEKNIK MENGOTAKKAN SUATU OBJEK (BOUNDING BOX)**  
 
 ## Latar Belakang  
 Pada tahun 2010, Gondrong Jenius Tekkom ditunjuk sebagai researcher di Amegakurine, khususnya dalam bidang pendeteksian objek pada gambar biota laut. Namun, dengan latar belakang yang bukan berasal dari bidang tersebut, ia harus belajar dari awal bagaimana cara mendeteksi objek gambar dengan benar.  
