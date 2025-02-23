@@ -3,3 +3,22 @@ Projek ini bertujuan untuk mendeteksi sebuah benda yang akan digunakan oleh si G
 Saya disini bertugas untuk membantu si gondrong jenius untuk menyelesaikan riset tersebut. Dengan cara :
 1. Membuat perta perjalanan (Milestone)
 2. membuat rekayasa algoritma cerdas
+
+#Rancangan yang harus dibuat si Gondrong Jenius
+#1. Menentukan tujuan
+   Gondrong arus tau apa tujuan yang akan dibuatnya
+#2. Mengumpulkan data
+   Mengambil dataset objek yang diinginkannya
+#3 Augmentasi data
+   Gondrong harus memeriksa data yang telah dia kumpulkan, serta meningkatkan kualitas data jika diperlukan 
+4. Anotasi data set
+   mengotakkan suatu objel atau bounding box
+5. input data ke model
+   Gondrong menggunakan beberapa software untuk melakukan modeling seperti yolo, roboflow
+6. Melatih model
+   melatih model dengan dataset yang telah dianotasi
+7. evaluasi model
+   mengukur performa model
+8. Deployment
+   Menerapkan model di real time/dunia nyata
+   
