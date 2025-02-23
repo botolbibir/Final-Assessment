@@ -1,7 +1,7 @@
-# 🌊 Final Assessment - Amarine Vision 2025  
+# Final Assessment - Amarine Vision 2025  
 **Pendeteksian Objek pada Gambar Biota Laut**  
 
-## 📖 Latar Belakang  
+## Latar Belakang  
 Pada tahun 2010, Gondrong Jenius Tekkom ditunjuk sebagai researcher di Amegakurine, khususnya dalam bidang pendeteksian objek pada gambar biota laut. Namun, dengan latar belakang yang bukan berasal dari bidang tersebut, ia harus belajar dari awal bagaimana cara mendeteksi objek gambar dengan benar.  
 
 Saat itu, riset terkait pendeteksian objek, sistem cerdas, dan pemodelan algoritma masih sangat minim. Kebanyakan penelitian hanya mengandalkan riset paper serta sumber kode yang belum terdokumentasi dengan baik.  
@@ -12,39 +12,10 @@ Pada suatu hari, ketika sedang beristirahat di bawah pohon rektorat, sebuah kard
 
 ---
 
-## 🎯 **Tujuan Proyek**  
+# **Tujuan Proyek**  
 Proyek ini bertujuan untuk membangun model pendeteksian objek berbasis visi komputer (Computer Vision) yang mampu:  
 ✅ Mengenali dan mengklasifikasikan objek biota laut dari citra bawah air.  
 ✅ Mengimplementasikan metode bounding box untuk anotasi data.  
 ✅ Melatih model dengan dataset yang telah dianotasi.  
 ✅ Menguji akurasi model dengan berbagai parameter evaluasi.  
 ✅ Menerapkan model dalam lingkungan produksi.  
-
----
-
-## 🏗 **Teknologi yang Digunakan**  
-Proyek ini menggunakan berbagai teknologi dan pustaka pemrograman, antara lain:  
-
-- **Python** 🐍 - Bahasa pemrograman utama.  
-- **OpenCV** 📷 - Pemrosesan gambar dan deteksi objek.  
-- **TensorFlow/Keras** 🤖 - Model deep learning untuk pendeteksian objek.  
-- **LabelImg** 🏷 - Alat anotasi bounding box.  
-- **YOLO (You Only Look Once)** 🚀 - Algoritma deteksi objek yang cepat dan efisien.  
-- **Matplotlib & Seaborn** 📊 - Visualisasi hasil deteksi dan evaluasi model.  
-
----
-
-## 📌 **Struktur Proyek**  
-```bash
-Final-Assessment-Amarine-Vision-2025/
-│── dataset/                # Dataset gambar biota laut
-│── annotations/            # Hasil anotasi bounding box
-│── models/                 # Model yang telah dilatih
-│── src/                    # Kode utama proyek
-│   ├── data_preprocessing.py  # Pra-pemrosesan dataset
-│   ├── model_training.py      # Skrip pelatihan model
-│   ├── object_detection.py    # Skrip deteksi objek
-│   ├── evaluation.py          # Evaluasi model
-│── results/                # Hasil uji coba model
-│── README.md               # Dokumentasi proyek
-└── requirements.txt        # Daftar pustaka yang dibutuhkan
