@@ -6,19 +6,19 @@ Saya disini bertugas untuk membantu si gondrong jenius untuk menyelesaikan riset
 
 # Rancangan yang harus dibuat si Gondrong Jenius
  1. Menentukan tujuan
-      Gondrong arus tau apa tujuan yang akan dibuatnya
+    Gondrong arus tau apa tujuan yang akan dibuatnya
  2. Mengumpulkan data
-      Mengambil dataset objek yang diinginkannya
+    Mengambil dataset objek yang diinginkannya
  3 Augmentasi data
-      Gondrong harus memeriksa data yang telah dia kumpulkan, serta meningkatkan kualitas data jika diperlukan 
+    Gondrong harus memeriksa data yang telah dia kumpulkan, serta meningkatkan kualitas data jika diperlukan 
  4. Anotasi data set
-      mengotakkan suatu objel atau bounding box
+    mengotakkan suatu objel atau bounding box
  5. input data ke model
-      Gondrong menggunakan beberapa software untuk melakukan modeling seperti yolo, roboflow
+    Gondrong menggunakan beberapa software untuk melakukan modeling seperti yolo, roboflow
  6. Melatih model
-      melatih model dengan dataset yang telah dianotasi
- 7. evaluasi model
-      mengukur performa model
- 8. Deployment
-      Menerapkan model di real time/dunia nyata
+    melatih model dengan dataset yang telah dianotasi
+ 8. evaluasi model
+    mengukur performa model
+ 9. Deployment
+    Menerapkan model di real time/dunia nyata
    
