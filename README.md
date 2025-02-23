@@ -6,7 +6,7 @@ Saya disini bertugas untuk membantu si gondrong jenius untuk menyelesaikan riset
 
 # Rancangan yang harus dibuat si Gondrong Jenius
  1. Menentukan tujuan
-    Gondrong arus tau apa tujuan yang akan dibuatnya
+Gondrong arus tau apa tujuan yang akan dibuatnya
  2. Mengumpulkan data
     Mengambil dataset objek yang diinginkannya
  3 Augmentasi data
