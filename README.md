@@ -12,7 +12,7 @@ Pada suatu hari, ketika sedang beristirahat di bawah pohon rektorat, sebuah kard
 
 ---
 
-# **Tujuan Proyek**
+*Tujuan Proyek*
 Proyek ini bertujuan untuk membangun model pendeteksian objek berbasis visi komputer (Computer Vision) yang mampu:  
 ✅ Mengenali dan mengklasifikasikan objek biota laut dari citra bawah air.  
 ✅ Mengimplementasikan teknik bounding box untuk anotasi dataset.  
