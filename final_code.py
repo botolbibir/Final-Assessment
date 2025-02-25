@@ -1,9 +1,16 @@
 import time
 import cv2
 from ultralytics import YOLO
+from roboflow import Roboflow
 
 # Mulai penghitungan waktu eksekusi
 start_time = time.time()
+
+rf= Roboflow(api_key= "a2rFcd9L7FocP8ugJIWb" )
+project = rf.workspace("belajar-cqpru").project("objek-deteksi-osjve")
+version = project.version(2)
+
+dataset = version.download("yolov8")
 
 # Load model YOLOv8
 model = YOLO('yolov8n.pt')
